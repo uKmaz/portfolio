@@ -6,7 +6,7 @@ const SkillsSection = () => {
   ];
 
   const technologies = [
-    "Git", "Unity", "Spring Boot", "React Native", "Render"
+    "Git", "Unity", "Spring Boot", "React Native", "Render", "Firebase"
   ];
 
   return (
