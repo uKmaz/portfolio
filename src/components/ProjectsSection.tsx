@@ -38,7 +38,7 @@ const ProjectsSection = () => {
     {
       title: "UniHub – A Social Platform for University Communities",
       description: "Designed and developed a mobile app tailored for university clubs and students to connect, organize events, and share content. Built using modern tools and frameworks with a focus on user experience, performance, and scalability.",
-      technologies: ["React Native", "Full-Stack", "UI/UX", "Mobile Development"],
+      technologies: ["React Native", "Full-Stack", "UI/UX", "Mobile Development", "PostgreSQL"],
       links: [],
       featured: true
     }
