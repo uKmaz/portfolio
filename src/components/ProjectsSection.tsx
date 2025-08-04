@@ -7,7 +7,7 @@ const ProjectsSection = () => {
     {
       title: "TÜBİTAK Project",
       description: "Conducted a research project combining psychology and technology, utilizing programming to model behavior and analyze patterns. Showcased analytical and problem-solving skills.",
-      technologies: ["Python", "Research", "Data Analysis", "Psychology"],
+      technologies: ["C#", "Unity", "Research", "Data Analysis", "Psychology"],
       links: [
         { 
           label: "GitHub", 

@@ -1,8 +1,8 @@
 const SkillsSection = () => {
   const programmingLanguages = [
     { name: "C#", level: 90 },
-    { name: "Java", level: 85 },
-    { name: "Python", level: 80 }
+    { name: "Java", level: 90 },
+    { name: "Python", level: 70 }
   ];
 
   const technologies = [
